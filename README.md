@@ -4,6 +4,10 @@ Me chamo Marcus e sou desenvolvedor full stack com 10 anos de experiência com t
 
 <br>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcustavora&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 <a name="#tecnologia"></a>
 ## 🛠 Tecnologias e ferramentas
 
