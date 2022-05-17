@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Sobre
 
-Me chamo Marcus e sou desenvolvedor full stack com 10 anos de experiência com tecnologia.
+Me chamo Marcus e sou desenvolvedor full stack com 10 anos de experiência com tecnologias frontend e backend.
 
 <br>
 
